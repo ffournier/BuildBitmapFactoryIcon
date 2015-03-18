@@ -214,6 +214,7 @@ public class BuildBitmapFactoryIcon {
                 break;
             case DisplayMetrics.DENSITY_XHIGH:
                 size = 96;
+                break;
             case DisplayMetrics.DENSITY_XXHIGH:
             default:
                 size = 144;
